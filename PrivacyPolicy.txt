@@ -1,0 +1,30 @@
+Privacy Policy for Kingdoms
+
+Last updated: 5th April 2024
+
+This Privacy Policy applies to Kingdoms, developed and published by PolygonEclipse. 
+This policy sets forth our responsibilities regarding the protection of your privacy while using the Game.
+
+Data Collection and Use
+The Game is a single-player experience and does not collect, use, store, or share any personal data from its users. 
+We value your privacy and aim to provide a safe and secure gaming experience without compromising your personal information.
+
+Explanation of Collected Data
+Since the Game does not collect any personal data, there is no data to explain in this regard. 
+The Game is designed to be enjoyed without the need for data collection.
+
+Data Usage
+As no data is collected, there is also no use of personal data within the Game. 
+The Game functions entirely offline and does not require internet access or user data to operate fully.
+
+User Data Requests
+Given that no user data is collected or stored, there are no means or requirements for users to request the deletion of their data. 
+Should any changes to this policy occur in the future, this section will be updated accordingly to provide users with a method to submit such requests.
+
+Contact Information
+For any questions or concerns about this privacy policy or the Game, please contact us at polygoneclipsegames@gmail.com
+
+Changes to This Privacy Policy
+We reserve the right to make changes to this Privacy Policy at any time. 
+You are encouraged to frequently check this policy for any changes. 
+Changes to this Privacy Policy are effective when they are posted on https://github.com/PolygonEclipse/KingdomsPrivacyPolicy
